@@ -18,6 +18,11 @@
 				<Aggregate>7.36</Aggregate>
 				<YearOfCompletion>2014</YearOfCompletion>
 			</Education>
+<Education1>
+				<Degree>M.B</Degree>
+				<Aggregate>7</Aggregate>
+				<YearOfCompletion>2019</YearOfCompletion>
+			</Education1>
 		</Customer>
 	</CustomerDetails>
 </Document>
